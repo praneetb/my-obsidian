@@ -1,6 +1,6 @@
 ---
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-20
 type: reference
 tags: [vault]
 ---
@@ -22,7 +22,7 @@ tags: [vault]
 
 ## Meetings
 
-(none yet)
+- [[2026-08-20 Meeting - Offsite]]
 
 ## Reference
 
