@@ -13,4 +13,6 @@ Work offsite at 1 Coyote Ranch Drive, San Jose, CA, 10:00 am – 3:00 pm.
 
 ## Notes
 
+- Fun offsite overall: food, drinks, games (musical chairs, hula hoop), and dancing.
+
 ## Action items
