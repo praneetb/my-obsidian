@@ -1,6 +1,6 @@
 ---
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-20
 type: person
 tags: [person]
 aliases: [Praneet, Praneet Bachheti]
@@ -12,6 +12,7 @@ Software engineer based in Fremont, CA. Works at [[Intuit]] on cloud technologie
 
 ## About
 
+- Birthday: September 25.
 - Based in Fremont, CA.
 - Software engineer at [[Intuit]], working on cloud technologies.
 - Team: [[EWOK]]. Main focus: [[Disaster Recovery (DR)]].
@@ -31,3 +32,7 @@ Software engineer based in Fremont, CA. Works at [[Intuit]] on cloud technologie
 ## Interactions
 
 (this is the vault owner — interactions log not applicable)
+
+## Plans
+
+- [ ] Birthday 🎂 2026-09-25 #recurring
